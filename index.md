@@ -3,7 +3,7 @@
 I am a somewhat experienced web developer. While I mainly use HTML or Python I am always open to learning new languages.
 This webpage will mainly be used for project updates and well games. Feel free to explore and if you have any questions or comments go to the help page! Have fun. Git coding!
 
-### Markdown
+### Getting Started With GUIS
 
 A snippet of my curent project code will go in the code block below.
 
@@ -11,7 +11,7 @@ A snippet of my curent project code will go in the code block below.
 Building Gui's with Python
 
 from guizero import App
-## Header 2
+from guizero import App, 
 ### Header 3
 
 - Bulleted
@@ -25,12 +25,14 @@ from guizero import App
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details on this project see [RaspberryPi Tutorials](https://www.raspberrypi.org/learning/getting-started-with-guis/).
 
-### Jekyll Themes
+### Join GalaxyRocket101
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NightHawk136/nighthawk136.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If you would like to join my GitHub team please send me an [email](https://zscientist100@hotmail.com). Be sure you include your name, email, and a brief description about yourself, and I will get back to you as soon as possible.
 
-### Support or Contact
+### Chat and General Info
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to use my chat to give tips, ideas, comments, question, and if you just want to say hello.
+
+                                        Thanks again! Zach, NightHawk136
