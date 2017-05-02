@@ -33,6 +33,6 @@ If you would like to join my GitHub team please send me an email at nighthawk136
 
 ### Chat and General Info
 
-Feel free to use my chat to give tips, ideas, comments, question, and if you just want to say hello. [Click here]() to start a chat.
+Feel free to use my chat to give tips, ideas, comments, question, and if you just want to say hello. 
 
 Thanks again! Zach, NightHawk136
