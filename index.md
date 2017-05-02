@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Hello, my name is Zach
 
-You can use the [editor on GitHub](https://github.com/NightHawk136/nighthawk136.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a somewhat experienced web developer. While I mainly use HTML or Python I am always open to learning new languages.
+This webpage will mainly be used for project updates and well games. Feel free to explore and if you have any questions or comments go to the help page! Have fun. Git coding!
 
 ### Markdown
 
