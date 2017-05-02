@@ -5,12 +5,12 @@ This webpage will mainly be used for project updates and well games. Feel free t
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A snippet of my curent project code will go in the code block below.
 
 ```markdown
-Syntax highlighted code block
+Building Gui's with Python
 
-# Header 1
+from guizero import App
 ## Header 2
 ### Header 3
 
