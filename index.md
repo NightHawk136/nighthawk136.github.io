@@ -35,4 +35,4 @@ If you would like to join my GitHub team please send me an email at nighthawk136
 
 Feel free to use my chat to give tips, ideas, comments, question, and if you just want to say hello. [Click here]() to start a chat.
 
-                                        Thanks again! Zach, NightHawk136
+Thanks again! Zach, NightHawk136
