@@ -29,10 +29,10 @@ For more details on this project see [RaspberryPi Tutorials](https://www.raspber
 
 ### Join GalaxyRocket101
 
-If you would like to join my GitHub team please send me an [email](https://zscientist100@hotmail.com). Be sure you include your name, email, and a brief description about yourself, and I will get back to you as soon as possible.
+If you would like to join my GitHub team please send me an email at nighthawk136@outlook.com. Be sure you include your name, email, and a brief description about yourself, and I will get back to you as soon as possible.
 
 ### Chat and General Info
 
-Feel free to use my chat to give tips, ideas, comments, question, and if you just want to say hello.
+Feel free to use my chat to give tips, ideas, comments, question, and if you just want to say hello. [Click here]() to start a chat.
 
                                         Thanks again! Zach, NightHawk136
