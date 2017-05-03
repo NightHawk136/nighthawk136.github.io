@@ -7,22 +7,28 @@ This webpage will mainly be used for project updates and well games. Feel free t
 
 A snippet of my curent project code will go in the code block below.
 
-```markdown
-Building Gui's with Python
+```python
+from guizero import App
+from guizero import App, Text
+from guizero import App, TextBox
+from guizero import App, PushButton
+from guizero import App, Slider
 
-from guizero 'import' App
-'from' guizero 'import' App, 
-### Header 3
+def say_my_name():
+    welcome_message.set( my_name.get() )
 
-- Bulleted
-- List
+def change_text_size(slider_value):
+    welcome_message.font_size(slider_value)
 
-1. Numbered
-2. List
+app = App(title="Hello world")
+welcome_message = Text(app, text="Welcome to my app")
+my_name = TextBox(app)
+update_text = PushButton(app, command=say_my_name, text="Display my name")
+text_size = Slider(app, command=change_text_size, start=10, end=80)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+app.display()
 ```
 
 For more details on this project see [RaspberryPi Tutorials](https://www.raspberrypi.org/learning/getting-started-with-guis/).
