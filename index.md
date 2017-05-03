@@ -10,8 +10,8 @@ A snippet of my curent project code will go in the code block below.
 ```markdown
 Building Gui's with Python
 
-from guizero import App
-from guizero import App, 
+from guizero 'import' App
+'from' guizero 'import' App, 
 ### Header 3
 
 - Bulleted
