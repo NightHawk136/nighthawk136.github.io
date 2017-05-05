@@ -9,24 +9,35 @@ A snippet of my curent project code will go in the code block below.
 
 ```python
 from guizero import App
+from guizero import App, Combo
 from guizero import App, Text
-from guizero import App, TextBox
+from guizero import App, CheckBox
+from guizero import App, ButtonGroup
 from guizero import App, PushButton
-from guizero import App, Slider
+from guizero import App, info
 
-def say_my_name():
-    welcome_message.set( my_name.get() )
+def do_booking():
+    info("Booking", "Thank you for booking")
+    print( film_choice.get() )
+    print( vip_seat.get_value() )
+    print( row_choice.get() )
 
-def change_text_size(slider_value):
-    welcome_message.font_size(slider_value)
+app = App(title="My second GUI app", width=300, height=200, layout="grid")
 
-app = App(title="Hello world")
-welcome_message = Text(app, text="Welcome to my app")
-my_name = TextBox(app)
-update_text = PushButton(app, command=say_my_name, text="Display my name")
-text_size = Slider(app, command=change_text_size, start=10, end=80)
+film_choice = Combo(app, options=["none", "Star Wars", "Indiana Jones", "Batman"], grid=[0,1], align="left")
 
+film_description = Text(app, text="Which film?", grid=[0,0], align="left")
 
+vip_title = Text(app, text="Seat type", grid=[1,0])
+
+vip_seat = CheckBox(app, text="VIP seat?", grid=[1,1], align="left")
+
+row_name = Text(app, text="Seat location", grid=[2,0])
+
+row_choice = ButtonGroup(app, options=[ ["Front", "F"], ["Middle", "M"],["Back", "B"] ],
+selected="M", horizontal=True, grid=[2,1], align="left")
+
+book_seats = PushButton(app, command=do_booking, text="Book seat", grid=[3,1], align="left")
 
 app.display()
 ```
