@@ -5,7 +5,7 @@ This webpage will mainly be used for project updates and well games. Feel free t
 
 ### Getting Started With GUIS
 
-A snippet of my curent project code will go in the code block below.
+My curent project code will go in the code block below.
 
 ```python
 from guizero import App
